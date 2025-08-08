@@ -22,7 +22,7 @@
 
 ---
 
-## 💼 Full Stack Web Developer 
+## 💼 Front End Web Developer 
 
 I'm a passionate developer who enjoys building full-stack web applications, experimenting with Unity for game development, and constantly learning new technologies.  
 I love solving real-world problems, creating engaging tools, and collaborating on creative projects.
